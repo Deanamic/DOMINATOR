@@ -42,4 +42,11 @@
     - Ripote2
     - Ripote7
     - Ripote
+
+##Matches
+ - [AImimare vs AIdiosmio](https://github.com/deanamic/SECTA/tree/master/Game/Matches/Match%20AImimare%20vs%20AIdiosmio%20vs%20AImimare%20vs%20AIdiosmio%20%2004.12.2016%2017:50)
+ - [AImimare vs IES0](https://github.com/deanamic/SECTA/tree/master/Game/Matches/Match%20AImimare%20vs%20Galois%20vs%20theAnswer%20vs%20IESO%20%2004.12.2016%2017:12)
+ - [AImimare vs Riemann](https://github.com/deanamic/SECTA/tree/master/Game/Matches/Match%20AImimare%20vs%20Riemann%20vs%20AImimare%20vs%20Riemann%20%2004.12.2016%2017:42)
+ - [AImimare vs kacelacabra5](https://github.com/deanamic/SECTA/tree/master/Game/Matches/Match%20AImimare%20vs%20kacelacabra5%20vs%20AImimare%20vs%20kacelacabra5%20%2004.12.2016%2017:45)
+ - [AImimare vs theAnswerB](https://github.com/deanamic/SECTA/tree/master/Game/Matches/Match%20AImimare%20vs%20theAnswerB%20vs%20AImimare%20vs%20theAnswerB%20%2004.12.2016%2017:47)
     
