@@ -74,23 +74,26 @@ No se si funciona en Mac
 
 - [AImimare vs Riemann](https://github.com/deanamic/SECTA/tree/master/Game/Matches/Match%20AImimare%20vs%20Riemann%20vs%20AImimare%20vs%20Riemann%20%2004.12.2016%2017:42)
 
-    - [Partida 1](https://deanamic.github.io/SECTA/viewer.html?game=)
-    - [Partida 2](https://deanamic.github.io/SECTA/viewer.html?game=)  
-    - [Partida 3](https://deanamic.github.io/SECTA/viewer.html?game=)  
-    - [Partida 4](https://deanamic.github.io/SECTA/viewer.html?game=)  
-    - [Partida 5](https://deanamic.github.io/SECTA/viewer.html?game=)  
+    - [Partida 1](https://deanamic.github.io/SECTA/viewer.html?game=https://raw.githubusercontent.com/deanamic/SECTA/master/Game/Matches/Match%20AImimare%20vs%20Riemann%20vs%20AImimare%20vs%20Riemann%20%2004.12.2016%2017%3A42/Match%20Number0.res?token=AQ_cjW-Tmdw-AP4RD3BB8Ne2gPrgU3E2ks5YTdWAwA%3D%3D)
+    - [Partida 2](https://deanamic.github.io/SECTA/viewer.html?game=https://raw.githubusercontent.com/deanamic/SECTA/master/Game/Matches/Match%20AImimare%20vs%20Riemann%20vs%20AImimare%20vs%20Riemann%20%2004.12.2016%2017%3A42/Match%20Number1.res?token=AQ_cjWsZdQDHmq13XyPqcp3-rLYbEJTHks5YTdWKwA%3D%3D)  
+    - [Partida 3](https://deanamic.github.io/SECTA/viewer.html?game=https://raw.githubusercontent.com/deanamic/SECTA/master/Game/Matches/Match%20AImimare%20vs%20Riemann%20vs%20AImimare%20vs%20Riemann%20%2004.12.2016%2017%3A42/Match%20Number2.res?token=AQ_cjUhU_CEHy4L7syBeZ1BAnQJSfz9sks5YTdWUwA%3D%3D)  
+    - [Partida 4](https://deanamic.github.io/SECTA/viewer.html?game=https://raw.githubusercontent.com/deanamic/SECTA/master/Game/Matches/Match%20AImimare%20vs%20Riemann%20vs%20AImimare%20vs%20Riemann%20%2004.12.2016%2017%3A42/Match%20Number3.res?token=AQ_cjdOu0lowYAC4fMuiHV7MMSkwecqUks5YTdWnwA%3D%3D)  
+    - [Partida 5](https://deanamic.github.io/SECTA/viewer.html?game=https://raw.githubusercontent.com/deanamic/SECTA/master/Game/Matches/Match%20AImimare%20vs%20Riemann%20vs%20AImimare%20vs%20Riemann%20%2004.12.2016%2017%3A42/Match%20Number4.res?token=AQ_cjYWkir-b-KiU_DKxVtPklE2naHHXks5YTdW0wA%3D%3D)  
 
 - [AImimare vs kacelacabra5](https://github.com/deanamic/SECTA/tree/master/Game/Matches/Match%20AImimare%20vs%20kacelacabra5%20vs%20AImimare%20vs%20kacelacabra5%20%2004.12.2016%2017:45)
 
-    - [Partida 1](https://deanamic.github.io/SECTA/viewer.html?game=)  
-    - [Partida 2](https://deanamic.github.io/SECTA/viewer.html?game=)  
-    - [Partida 3](https://deanamic.github.io/SECTA/viewer.html?game=)  
-    - [Partida 4](https://deanamic.github.io/SECTA/viewer.html?game=)  
-    - [Partida 5](https://deanamic.github.io/SECTA/viewer.html?game=)  
+    - [Partida 1](https://deanamic.github.io/SECTA/viewer.html?game=https://raw.githubusercontent.com/deanamic/SECTA/master/Game/Matches/Match%20AImimare%20vs%20kacelacabra5%20vs%20AImimare%20vs%20kacelacabra5%20%2004.12.2016%2017%3A45/Match%20Number0.res?token=AQ_cjUV__OEydkNaqKNOgo9StcN0DaVQks5YTdXawA%3D%3D)  
+    - [Partida 2](https://deanamic.github.io/SECTA/viewer.html?game=https://raw.githubusercontent.com/deanamic/SECTA/master/Game/Matches/Match%20AImimare%20vs%20kacelacabra5%20vs%20AImimare%20vs%20kacelacabra5%20%2004.12.2016%2017%3A45/Match%20Number1.res?token=AQ_cjf0vi9TgElej4PbGLYZUYrca7AMUks5YTdXlwA%3D%3D)  
+    - [Partida 3](https://deanamic.github.io/SECTA/viewer.html?game=https://raw.githubusercontent.com/deanamic/SECTA/master/Game/Matches/Match%20AImimare%20vs%20kacelacabra5%20vs%20AImimare%20vs%20kacelacabra5%20%2004.12.2016%2017%3A45/Match%20Number2.res?token=AQ_cjdTAffFpZf_76pe3T6LZ8loydE1Yks5YTdXtwA%3D%3D)  
+    - [Partida 4](https://deanamic.github.io/SECTA/viewer.html?game=https://raw.githubusercontent.com/deanamic/SECTA/master/Game/Matches/Match%20AImimare%20vs%20kacelacabra5%20vs%20AImimare%20vs%20kacelacabra5%20%2004.12.2016%2017%3A45/Match%20Number3.res?token=AQ_cjU6um82HnLn0mRi0W_DpwhYC_JOEks5YTdX3wA%3D%3D)  
+    - [Partida 5](https://deanamic.github.io/SECTA/viewer.html?game=https://raw.githubusercontent.com/deanamic/SECTA/master/Game/Matches/Match%20AImimare%20vs%20kacelacabra5%20vs%20AImimare%20vs%20kacelacabra5%20%2004.12.2016%2017%3A45/Match%20Number4.res?token=AQ_cjbHUtj37ijPLL6NGgrhA-ctbQBFgks5YTdYHwA%3D%3D)  
+
 - [AImimare vs theAnswerB](https://github.com/deanamic/SECTA/tree/master/Game/Matches/Match%20AImimare%20vs%20theAnswerB%20vs%20AImimare%20vs%20theAnswerB%20%2004.12.2016%2017:47)
 
-    - [Partida 1](https://deanamic.github.io/SECTA/viewer.html?game=)   
-    - [Partida 2](https://deanamic.github.io/SECTA/viewer.html?game=)  
-    - [Partida 3](https://deanamic.github.io/SECTA/viewer.html?game=)  
-    - [Partida 4](https://deanamic.github.io/SECTA/viewer.html?game=)  
-    - [Partida 5](https://deanamic.github.io/SECTA/viewer.html?game=)  
+    - [Partida 1](https://deanamic.github.io/SECTA/viewer.html?game=https://raw.githubusercontent.com/deanamic/SECTA/master/Game/Matches/Match%20AImimare%20vs%20theAnswerB%20vs%20AImimare%20vs%20theAnswerB%20%2004.12.2016%2017%3A47/Match%20Number0.res?token=AQ_cjapcQ8WXyV-BdaAZTuWeu0JYOHviks5YTdYtwA%3D%3D)   
+    - [Partida 2](https://deanamic.github.io/SECTA/viewer.html?game=https://raw.githubusercontent.com/deanamic/SECTA/master/Game/Matches/Match%20AImimare%20vs%20theAnswerB%20vs%20AImimare%20vs%20theAnswerB%20%2004.12.2016%2017%3A47/Match%20Number1.res?token=AQ_cjU-r9zPTuwvaYrYdFYr3OJfUHruYks5YTdY9wA%3D%3D)  
+    - [Partida 3](https://deanamic.github.io/SECTA/viewer.html?game=https://raw.githubusercontent.com/deanamic/SECTA/master/Game/Matches/Match%20AImimare%20vs%20theAnswerB%20vs%20AImimare%20vs%20theAnswerB%20%2004.12.2016%2017%3A47/Match%20Number2.res?token=AQ_cjdGec7GpHTKTO6jMPZo-y_5TZH8eks5YTdZDwA%3D%3D)  
+    - [Partida 4](https://deanamic.github.io/SECTA/viewer.html?game=https://raw.githubusercontent.com/deanamic/SECTA/master/Game/Matches/Match%20AImimare%20vs%20theAnswerB%20vs%20AImimare%20vs%20theAnswerB%20%2004.12.2016%2017%3A47/Match%20Number3.res?token=AQ_cjVm7bDGVxZ_DeuhraJHdkG_RKTOxks5YTdZUwA%3D%3D)  
+    - [Partida 5](https://deanamic.github.io/SECTA/viewer.html?game=https://raw.githubusercontent.com/deanamic/SECTA/master/Game/Matches/Match%20AImimare%20vs%20theAnswerB%20vs%20AImimare%20vs%20theAnswerB%20%2004.12.2016%2017%3A47/Match%20Number4.res?token=AQ_cjRdLZ4tk4rp1t18LlT01V_yxFzHoks5YTdZfwA%3D%3D)  
+
+    
