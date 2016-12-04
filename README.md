@@ -1,6 +1,4 @@
 #Instrucciones 
-
-Descargarte TODO el GIT.  
  
  1. Sube tus [objetos](https://github.com/deanamic/SECTA/tree/master/Objects) a la carpeta objetos de GIT
  2. [Descargarte](https://github.com/deanamic/SECTA/archive/master.zip) todo el git
