@@ -9,6 +9,13 @@
  5. Ejecutar python executa_Linux.py/executa_Mac.py *AI1 AI2 AI3 AI4 \# de partidas*  
   Ejemplo: python executa_Linux.py Dummy Dummy Dummy Dummy 100  
           o si eres eric python executa_Mac.py ROPOTE Dummy Dummy Dummy 100 
+
+##Miscelaneo  
+  
+  Si ejecutas python BO5_Linux AI AI AI AI  (o BO5_Mac si eres RIPOTE)  
+  Haras 5 partidas que se guardaran en la carpeta Matches   
+
+  No se si funciona en Mac
  
 ##Objetos Linux
  - Cesc
