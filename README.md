@@ -14,7 +14,7 @@
 
 ## Miscelaneo
 
-Si ejecutas python BO5_Linux AI AI AI AI (o BO5_Mac si eres RIPOTE)<br>
+Si ejecutas python BO5_Linux.py AI AI AI AI (o BO5_Mac.py si eres RIPOTE)  
 Haras 5 partidas que se guardaran en la carpeta Matches
 
 No se si funciona en Mac
