@@ -1,3 +1,4 @@
+Copia de seguridad, funciona 3/12/16
 #Instrucciones 
  
  1. Sube tus Objetos a la carpeta correspondiente de git  
