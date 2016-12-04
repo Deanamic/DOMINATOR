@@ -1,2 +1,1 @@
-# SECTA
-SECTAR
+###Instrucciones
