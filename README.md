@@ -10,7 +10,7 @@
 3. Ve a la carpeta de Game y haz make clean
 4. Haz make Linux o make Mac dependiendo de tu sistema operativo, solo podras jugar con AIs que usan el mismo compilador
 5. Ejecutar python executa_Linux.py/executa_Mac.py _AI AI AI AI partidas_  
-   Ejemplo: python executa_Linux.py Dummy Dummy Dummy Dummy 100
+   Ejemplo: python executa_Linux.py Dummy Dummy Dummy Dummy 100  
    o si eres eric python executa_Mac.py ROPOTE Dummy Dummy Dummy 100
 
 ## Miscelaneo
