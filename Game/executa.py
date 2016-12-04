@@ -25,7 +25,7 @@ for i in range(0,n):
   sys.stdout.write("-")
   sys.stdout.flush()
 
-print ""
+print ("")
 for i in range(0,4):
   print("Jugador "+str(i)+": " + str(punt[i]//n) + " " + str(guany[i]))
 
