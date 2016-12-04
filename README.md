@@ -1,6 +1,8 @@
 #Instrucciones 
  
- 1. Sube tus [objetos](https://github.com/deanamic/SECTA/tree/master/Objects) a la carpeta objetos de GIT
+ 1. Sube tus Objetos a la carpeta correspondiente de git  
+    1. [Linux](https://github.com/deanamic/SECTA/tree/master/Objects/Linux)  
+    2. [Mac](https://github.com/deanamic/SECTA/tree/master/Objects/Mac)
  2. [Descargarte](https://github.com/deanamic/SECTA/archive/master.zip) todo el git
  3. Ve a la carpeta de Game y haz make clean
  4. Haz make Linux o make Mac dependiendo de tu sistema operativo, solo podras jugar con AIs que usan el mismo compilador
