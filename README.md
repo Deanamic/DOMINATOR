@@ -3,12 +3,14 @@
 1. Sube tus Objetos a la carpeta correspondiente de git
 
   1. [Linux](https://github.com/deanamic/DOMINATOR/tree/master/Objects/Linux)
-  2. [Mac](https://github.com/deanamic/DOMINATOR/tree/master/Objects/Mac)
+  2. [Mac](https://github.com/deanamic/DOMINATOR/tree/master/Objects/Mac)  
+
 
 2. [Descargarte](https://github.com/deanamic/DOMINATOR/archive/master.zip) todo el git
 
 3. Ve a la carpeta de Game y haz make clean
-4. Haz make Linux o make Mac dependiendo de tu sistema operativo, solo podras jugar con AIs que usan el mismo compilador
+4. Haz make Linux o make Mac dependiendo de tu sistema operativo, solo podras jugar con AIs que usan el mismo compilador  
+
 5. Ejecutar python executa_Linux.py/executa_Mac.py _AI AI AI AI partidas_  
    Ejemplo: python executa_Linux.py Dummy Dummy Dummy Dummy 100  
    o si eres eric python executa_Mac.py ROPOTE Dummy Dummy Dummy 100
@@ -68,6 +70,7 @@ No se si funciona en Mac
   - [Partida 4](https://deanamic.github.io/DOMINATOR/viewer.html?game=https://raw.githubusercontent.com/deanamic/DOMINATOR/master/Game/Matches/Match%20AImimare%20vs%20AIdiosmio%20vs%20AImimare%20vs%20AIdiosmio%20%2004.12.2016%2017%3A50/Match%20Number3.res?token=AQ_cjdbZhW_g8NAiETNDJOpO1w5h5m4zks5YTd9IwA%3D%3D)  
   - [Partida 5](https://deanamic.github.io/DOMINATOR/viewer.html?game=https://raw.githubusercontent.com/deanamic/DOMINATOR/master/Game/Matches/Match%20AImimare%20vs%20AIdiosmio%20vs%20AImimare%20vs%20AIdiosmio%20%2004.12.2016%2017%3A50/Match%20Number4.res?token=AQ_cjX4DvFhHArrr7N94za77vVpWInNXks5YTd9KwA%3D%3D)  
 
+
 - [AImimare vs IESO](https://github.com/deanamic/DOMINATOR/tree/master/Game/Matches/Match%20AImimare%20vs%20Galois%20vs%20theAnswer%20vs%20IESO%20%2004.12.2016%2017:12)
 
   - [Partida 1](https://deanamic.github.io/DOMINATOR/viewer.html?game=https://raw.githubusercontent.com/deanamic/DOMINATOR/master/Game/Matches/Match%20AImimare%20vs%20IESO%20vs%20AImimare%20vs%20IESO%20%2004.12.2016%2017%3A48/Match%20Number0.res?token=AQ_cjfBhQGnikjU24qXNNDQ9PbQs4QlLks5YTeBbwA%3D%3D)  
@@ -75,6 +78,7 @@ No se si funciona en Mac
   - [Partida 3](https://deanamic.github.io/DOMINATOR/viewer.html?game=https://raw.githubusercontent.com/deanamic/DOMINATOR/master/Game/Matches/Match%20AImimare%20vs%20IESO%20vs%20AImimare%20vs%20IESO%20%2004.12.2016%2017%3A48/Match%20Number2.res?token=AQ_cjcookMTrHjsdiPyhitaLPbIUxaB8ks5YTeCEwA%3D%3D)  
   - [Partida 4](https://deanamic.github.io/DOMINATOR/viewer.html?game=https://raw.githubusercontent.com/deanamic/DOMINATOR/master/Game/Matches/Match%20AImimare%20vs%20IESO%20vs%20AImimare%20vs%20IESO%20%2004.12.2016%2017%3A48/Match%20Number3.res?token=AQ_cjTuNMjXOKnkG4LmqtEc52pTegScxks5YTeBqwA%3D%3D)  
   - [Partida 5](https://deanamic.github.io/DOMINATOR/viewer.html?game=https://raw.githubusercontent.com/deanamic/DOMINATOR/master/Game/Matches/Match%20AImimare%20vs%20IESO%20vs%20AImimare%20vs%20IESO%20%2004.12.2016%2017%3A48/Match%20Number4.res?token=AQ_cjVUsEpauJQAGckl-wna4Drw2CVsaks5YTeBpwA%3D%3D)  
+
 
 - [AImimare vs Riemann](https://github.com/deanamic/DOMINATOR/tree/master/Game/Matches/Match%20AImimare%20vs%20Riemann%20vs%20AImimare%20vs%20Riemann%20%2004.12.2016%2017:42)
 
