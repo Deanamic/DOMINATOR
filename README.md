@@ -12,19 +12,19 @@
  
 ##Objetos Linux
  - Cesc
-    - AIkacelacabra5
+    - kacelacabra5
     
  - Gonzalo
-    - AIgalois
-    - AIgauss
-    - AIRiemann
+    - galois
+    - gauss
+    - Riemann
     
  - Tomas
-    - AItheAnswer
-    - AItheAnswer2
-    - AItheAnswerB
+    - theAnswer
+    - theAnswer2
+    - theAnswerB
  - Alex
-    - AIIESO
+    - IESO
     
  - Dean
     - AImimare
@@ -32,7 +32,7 @@
 
 ##Objetos Mac
  - Eric
-    - AIRipote2
-    - AIRipote7
+    - Ripote2
+    - Ripote7
     - Ripote
     
