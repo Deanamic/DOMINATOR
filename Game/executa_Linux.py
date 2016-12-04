@@ -11,7 +11,7 @@ guany = [0,0,0,0]
 n = eval(sys.argv[5])
 
 for i in range(0,n):
-  output = subprocess.Popen(["./Game", sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], "-s", str(random.randrange(10000)), \
+  output = subprocess.Popen(["./GameLinux", sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], "-s", str(random.randrange(10000)), \
     "-i", "default.cnf", "-o", "default.res", "-d"], stdout=subprocess.PIPE).communicate()[0]
   llista = eval(output)
   maxim = 0
