@@ -4,7 +4,6 @@
  2. [Descargarte](https://github.com/deanamic/SECTA/archive/master.zip) todo el git
  3. Ve a la carpeta de Game y haz make clean
  4. Haz make Linux o make Mac dependiendo de tu sistema operativo, solo podras jugar con AIs que usan el mismo compilador
-  
  5. Ejecutar python executa.py *AI1 AI2 AI3 AI4 \# de partidas*  
   Ejemplo: python executa.py Dummy Dummy Dummy Dummy 100
  

@@ -1,7 +1,3 @@
-#DUMMY_OBJ = ../Dummy/AIDummy.o.Linux64 
-
-
-# Add here any extra .o player files you want to link to the executable
 LINUX_OBJS = ../Objects/Linux/*.o* ../Dummy/AIDummy.o.Linux64
 MAC_OBJS = ../Objects/Mac/*.o*  ../Dummy/AIDummy.o.MacOS
 
