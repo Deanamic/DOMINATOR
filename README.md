@@ -30,8 +30,8 @@ No se si funciona en Mac
 
 - Gonzalo
 
-  - galois
-  - gauss
+  - Galois
+  - Gauss
   - Riemann
 
 - Tomas
