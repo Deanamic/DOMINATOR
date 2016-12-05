@@ -53,6 +53,7 @@ No se si funciona en Mac
   - Caterpie  
 
 - Cidras
+  - Rincewind
   - Ceravieja 
 
 
