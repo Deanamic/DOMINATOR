@@ -51,6 +51,10 @@ No se si funciona en Mac
 
 - Pau
   - Caterpie  
+  
+- Cidras
+  - Rincewind  
+
 
 ## Objetos Mac
 
