@@ -51,7 +51,7 @@ No se si funciona en Mac
 
 - Pau
   - Caterpie  
-  
+
 - Cidras
   - Rincewind  
 
@@ -114,3 +114,10 @@ No se si funciona en Mac
     - [Partida 3](https://deanamic.github.io/DOMINATOR/viewer.html?game=https://raw.githubusercontent.com/deanamic/DOMINATOR/master/Game/Matches/Match%20AImimare%20vs%20Caterpie%20vs%20AImimare%20vs%20Caterpie%20%2004.12.2016%2023%3A45/Match%20Number2.res?token=AQ_cjQe8d3wBqlQBXYNaf5v6B0PaNmw3ks5YTd97wA%3D%3D)  
     - [Partida 4](https://deanamic.github.io/DOMINATOR/viewer.html?game=https://raw.githubusercontent.com/deanamic/DOMINATOR/master/Game/Matches/Match%20AImimare%20vs%20Caterpie%20vs%20AImimare%20vs%20Caterpie%20%2004.12.2016%2023%3A45/Match%20Number3.res?token=AQ_cjVBj3s1UgsignaccOEpuwbgxaRa5ks5YTd98wA%3D%3D)  
     - [Partida 5](https://deanamic.github.io/DOMINATOR/viewer.html?game=https://raw.githubusercontent.com/deanamic/DOMINATOR/master/Game/Matches/Match%20AImimare%20vs%20Caterpie%20vs%20AImimare%20vs%20Caterpie%20%2004.12.2016%2023%3A45/Match%20Number4.res?token=AQ_cjYKYb0letpCcFKCFfVFPxiGmoboiks5YTd99wA%3D%3D)  
+
+- [AImimare vs Rincewind]()  
+    - [Partida 1](https://deanamic.github.io/DOMINATOR/viewer.html?game=https://raw.githubusercontent.com/deanamic/DOMINATOR/master/Game/Matches/Match%20AImimare%20vs%20Rincewind%20vs%20AImimare%20vs%20Rincewind%20%2005.12.2016%2014%3A56/Match%20Number0.res?token=AQ_cjeTLRB0llxQh2tc6JyPP8a4z_6BHks5YTq0owA%3D%3D)  
+    - [Partida 2](https://deanamic.github.io/DOMINATOR/viewer.html?game=https://raw.githubusercontent.com/deanamic/DOMINATOR/master/Game/Matches/Match%20AImimare%20vs%20Rincewind%20vs%20AImimare%20vs%20Rincewind%20%2005.12.2016%2014%3A56/Match%20Number1.res?token=AQ_cjV0xOKj-70U3Wd9ujb8GjphX2kn9ks5YTq0swA%3D%3D)  
+    - [Partida 3](https://deanamic.github.io/DOMINATOR/viewer.html?game=https://raw.githubusercontent.com/deanamic/DOMINATOR/master/Game/Matches/Match%20AImimare%20vs%20Rincewind%20vs%20AImimare%20vs%20Rincewind%20%2005.12.2016%2014%3A56/Match%20Number2.res?token=AQ_cjcUg4kVi9BsLhG4L35ND4f6qZTawks5YTq1TwA%3D%3D)  
+    - [Partida 4](https://deanamic.github.io/DOMINATOR/viewer.html?game=https://raw.githubusercontent.com/deanamic/DOMINATOR/master/Game/Matches/Match%20AImimare%20vs%20Rincewind%20vs%20AImimare%20vs%20Rincewind%20%2005.12.2016%2014%3A56/Match%20Number3.res?token=AQ_cjYhr28edNqF8v_f0I_F6HcoQxaGuks5YTq2XwA%3D%3D)  
+    - [Partida 5](https://deanamic.github.io/DOMINATOR/viewer.html?game=https://raw.githubusercontent.com/deanamic/DOMINATOR/master/Game/Matches/Match%20AImimare%20vs%20Rincewind%20vs%20AImimare%20vs%20Rincewind%20%2005.12.2016%2014%3A56/Match%20Number4.res?token=AQ_cjTw-RwDxP9bJafF6VVAt2SbYfmcYks5YTq2WwA%3D%3D)  
