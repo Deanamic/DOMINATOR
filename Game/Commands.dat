@@ -1,2 +1,0 @@
-rm AImimare.o && make all
-./Game AImimare Demo Dummy Demo -s 30 -i default.cnf -o res/try6.res
