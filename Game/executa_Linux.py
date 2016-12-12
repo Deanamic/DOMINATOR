@@ -9,12 +9,10 @@ random.seed(time.time())
 punt = [0,0,0,0]
 guany = [[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]
 n = eval(sys.argv[5])
-generator = ["default.cnf","fixed1.cnf","fixed2.cnf","fixed3.cnf","fixed4.cnf","fixed5.cnf,generator1.cnf,generator2.cnf,generator3.cnf"]
+generator = ["default.cnf","fixed1.cnf","fixed2.cnf","fixed3.cnf","fixed4.cnf","fixed5.cnf","generator1.cnf","generator2.cnf","generator3.cnf"]
 
 for i in range(0,n):
-  r = random.randrange(10000)
-  players = [sys.argv[1] , sys.argv[2], sys.argv[3], sys.argv[4]]
-  output = subprocess.Popen(["./GameLinux", players[(r)%4], players[(r+1)%4], players[(r+2)%4], players[(r+3)%4], "-s", str(random.randrange(10000)), \
+  output = subprocess.Popen(["./GameLinux",sys.argv[1] , sys.argv[2], sys.argv[3], sys.argv[4], "-s", str(random.randrange(10000)), \
     "-i", generator[i%9], "-o", "default.res", "-d"], stdout=subprocess.PIPE).communicate()[0]
   llista = eval(output)
 
