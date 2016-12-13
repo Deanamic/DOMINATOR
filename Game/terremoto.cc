@@ -20,7 +20,7 @@ if (round() == 0) {
   for (int i = 1; i < 4; ++i) {
     if ( (nb_rounds() - round() + 1) * land  + total_score(i) > total_score(0)) win = false;
   }
-  if (win and round() != 0) {
+  if (win) {
     for (unsigned int i = 0; i < F.size(); ++i) {
       command(F[i], Dir(round() % 2 * 4 + 2));
     }
